@@ -1,0 +1,15 @@
+
+			body {
+        		background-color: LightGreen;
+        		font-family: "Helvetica Neue Light", Helvetica, sans-serif;
+        		font-weight: 300;
+        		text-align: center;
+			}
+			h1 {
+				font-size: 40px;
+				margin: 20px;
+			}
+			img {
+				border: 5px solid Black;
+				margin: 20px;
+			}

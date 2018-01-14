@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <?php
-	// http://fitl-app-basic.local/test.php
+	// http://fitl-app-basic.local/test.php - generates error
 	// http://fitl-app-basic.local/test.php?id=1
 	// http://fitl-app-basic.local/test.php?id=1
 	// http://fitl-app-basic.local/test.php?id=3
